@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Edit the GPS location info of your photos in a few clicks or delete it to protect your privacy.
+app_description                           : Manage the GPS location info of your photos in a few clicks or delete it in EXIF to protect your privacy.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -19,9 +19,9 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Nikolay Fiantsev                               
 your_link                                 :                     
 your_city                                 :                               
-email_address                             : 
-facebook_username                         : Nikolay Fiantsev                                     
-instagram_username                        : bigmotor
+email_address                             : photomapperapp@gmail.com
+facebook_username                         : NikolayFiantsev                                     
+instagram_username                        : 
 twitter_username                          : bigmotor
 github_username                           : bigMOTOR
 youtube_username                          :
@@ -31,41 +31,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Made for iOS Photo Library
+    description                           : PhotoMapper is build to updates location info in your iOS Photo Library and sync it accross all your devices.  
+    fontawesome_icon_name                 : apple
+
+  - title                                 : GPS tags always correct and never missed
+    description                           : Easily add or modify location info of photos in your iOS Photo library with simple placing pin on map. Never missed it in case of DSLR using or by any other reason. Since now it will be always correct and never missed.
+    fontawesome_icon_name                 : map-marker
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Protect your privacy by clear location info
+    description                           : Prepare photos for social sharing with clear GPS location info Keep the original photo for you and create a copy without any mark of the GPS location info (Geotagging) in EXIF metadata for sharing with reinforce of your privacy.
+    fontawesome_icon_name                 : user-secret
+
+  - title                                 : Batch photo edition
+    description                           : Edit multiple photos in a few clicks the fast and easy way. Forget about single selection.
+    fontawesome_icon_name                 : images
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Find all photo with missed location info
+    description                           : Easily find all photos without location in one click.
+    fontawesome_icon_name                 : search
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Universal iOS app
+    description                           : It's a universal app, which you buy once by and can use on all your iOS devices (iPhone, iPad, iPod Touch)
+    fontawesome_icon_name                 : dollar-sign
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
