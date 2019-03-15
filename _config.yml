@@ -31,16 +31,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Made for iOS Photo Library
-    description                           : PhotoMapper is build to updates location info in your iOS Photo Library and sync it accross all your devices.  
-    fontawesome_icon_name                 : apple
+  - title                                 : Made for iOS Photos
+    description                           : PhotoMapper is build to updates location info in your iOS Photo Library accross all your devices via sync.  
+    fontawesome_icon_name                 : camera
 
   - title                                 : GPS tags always correct and never missed
-    description                           : Easily add or modify location info of photos in your iOS Photo library with simple placing pin on map. Never missed it in case of DSLR using or by any other reason. Since now it will be always correct and never missed.
+    description                           : Easily add or modify location info of your photos in the iOS library with simple placing pin on map. Never missed it in case of DSLR usage or by any other reason. Since now it will be always correct and never missed.
     fontawesome_icon_name                 : map-marker
     
-  - title                                 : Protect your privacy by clear location info
-    description                           : Prepare photos for social sharing with clear GPS location info Keep the original photo for you and create a copy without any mark of the GPS location info (Geotagging) in EXIF metadata for sharing with reinforce of your privacy.
+  - title                                 : Protect your privacy by erased location
+    description                           : Prepare photos for social sharing with erased GPS location info in EXIF. Keep the original photo for you and create a copy without any mark of the location info (geotagging) in EXIF metadata for sharing pupose with reinforce of your privacy.
     fontawesome_icon_name                 : user-secret
 
   - title                                 : Batch photo edition
@@ -48,15 +48,15 @@ features                                  :
     fontawesome_icon_name                 : images
 
   - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : PhotoMapper perfectly works with video in your iOS Photos library.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Find all photo with missed location info
+  - title                                 : Find all photo with missed location
     description                           : Easily find all photos without location in one click.
     fontawesome_icon_name                 : search
 
   - title                                 : Universal iOS app
-    description                           : It's a universal app, which you buy once by and can use on all your iOS devices (iPhone, iPad, iPod Touch)
+    description                           : It's a universal app, which you buy once and can use on all your iOS devices (iPhone, iPad, iPod Touch).
     fontawesome_icon_name                 : dollar-sign
 
   - title                                 : # New Feature Title
