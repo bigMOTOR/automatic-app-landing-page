@@ -31,41 +31,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Location info of your photos will be always correct and never missed
+    description                           : Easily add or modify location info of photos in your iOS Photo library with simple placing pin on map. Never missed this info if you use DSLR or by any other reason.
+    fontawesome_icon_name                 : map-marker
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Prepare photos for social sharing with clear location info
+    description                           : Keep the original photo for you and create a copy without any mark of the GPS location info (Geotagging) in EXIF metadata for sharing with reinforce of your privacy.
+    fontawesome_icon_name                 : user-secret
+
+  - title                                 : Batch photo edition
+    description                           : Edit multiple photos in a few clicks the fast and easy way. Forget about single selection.
+    fontawesome_icon_name                 : images
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Find all photo with missed location info
+    description                           : Easily find all photos without location in one click.
+    fontawesome_icon_name                 : search
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
