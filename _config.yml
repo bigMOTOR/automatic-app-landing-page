@@ -9,7 +9,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Edit the GPS location info of your photos in a few clicks or delete it to protect your privacy.
+app_description                           : Manage the GPS location info of your photos in a few clicks or delete it to protect your privacy.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -19,9 +19,9 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Nikolay Fiantsev                               
 your_link                                 :                     
 your_city                                 :                               
-email_address                             : 
-facebook_username                         : Nikolay Fiantsev                                     
-instagram_username                        : bigmotor
+email_address                             : photomapperapp@gmail.com
+facebook_username                         : NikolayFiantsev                                     
+instagram_username                        : 
 twitter_username                          : bigmotor
 github_username                           : bigMOTOR
 youtube_username                          :
