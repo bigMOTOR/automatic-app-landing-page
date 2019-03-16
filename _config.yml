@@ -28,6 +28,12 @@ youtube_username                          :
 
 
 
+
+# Site Meta Info
+page_title                                : PhotoMapper GPS EXIF Editor
+
+
+
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
@@ -95,10 +101,6 @@ social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
 
-title: PhotoMapper GPS EXIF Editor
-plugins:
-  - jekyll-seo-tag
-google_analytics: UA-5492097-12
 
 
 
