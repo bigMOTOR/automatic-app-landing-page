@@ -21,13 +21,13 @@ $(function() {
             // Set large app icon using the iOS app ID if it is not set manually in _config.yml
             var $appIconLarge = $(".appIconLarge");
             if (!$appIconLarge.attr('src')) {
-                $($appIconLarge).attr("src", appInfo.artworkUrl512);
+                $($appIconLarge).attr("src", appInfo.artworkUrl512).attr('alt', 'PhotoMapper app icon');
             }
 
             // Set header app icon using the iOS app ID if it is not set manually in _config.yml
             var $appIconHeader = $(".headerIcon");
             if (!$appIconHeader.attr('src')) {
-                $($appIconHeader).attr("src", appInfo.artworkUrl512);
+                $($appIconHeader).attr("src", appInfo.artworkUrl512).attr('alt', 'PhotoMapper app icon');
             }
 
             // Set app name using the iOS app ID if it is not set manually in _config.yml
