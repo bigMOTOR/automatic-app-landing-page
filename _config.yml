@@ -62,6 +62,10 @@ features                                  :
     description                           : Easily find all photos without location in one click.
     fontawesome_icon_name                 : search
 
+  - title                                 : Copy location info 
+    description                           : Now you can copy location from one photo to as many other photos as you wish.
+    fontawesome_icon_name                 : copy
+
   - title                                 : Universal iOS app
     description                           : It's a universal app, which you buy once and can use on all your iOS devices (iPhone, iPad, iPod Touch).
     fontawesome_icon_name                 : dollar-sign
